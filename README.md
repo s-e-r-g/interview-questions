@@ -1,11 +1,14 @@
-Some interview questions for the company:
+Some interview questions for the company
+========================================
 
-Project:
+Project
+=======
 
 What is the project about?
 What stage is it at? More or less stable or all processes are not clear yet?
 
-Team:
+Team
+====
 
 What is the name of the team?
 What does the team do?
@@ -14,13 +17,15 @@ Who they are and what is their experience?
 Why are you hiring new developers? What happened with the previous?
 Languages you use in communication.
 
-Role:
+Role
+====
 
 What is the name of my role?
 What kind of tasks will I have?
 What will be my 1st task? 
 
-Development process:
+Development process
+===================
 
 Do you write tests ? What kind of tests?
 With how many teams we will interact?
@@ -37,7 +42,8 @@ What does the regular week/month look like in terms of meetings/plannings/etc…
 Describe the usual new feature implementation process?
 Describe the usual bug fixing process?
 
-What programming languages, libraries, tools do you use in development? How often do you update them?
+What programming languages, libraries, tools do you use in development?
+How often do you update them?
 
 Do you use coding styles? 
 Do you use code formatters? 
@@ -47,20 +53,28 @@ Do you use static code analysers?
 Do you have performance tests?
 Do you have code coverage analysers?
 
-Branch management: How do you manage branches/releases? Do you use “Merge” or “Rebase” approach?
+Branch management
+=================
+How do you manage branches/releases? 
+Do you use “Merge” or “Rebase” approach?
 
+Licensing
+=========
 Who and how does the software licensing checks / tracking?
 
-Remote/Onsite:
+Remote/Onsite
+=============
 
 More about onsite and remote options
 
-Certification:
+Certification
+=============
 
 Is there a lot of certification related activities at this role? 
 Do you have any certification-related trainings?
 
-Onboarding / Benefits:
+Onboarding / Benefits
+=====================
 
 Where do you expect a new employee to start?
 Base salary range
@@ -68,12 +82,18 @@ Bonuses (13th salary, pension scheme, stock, so on…)
 Salary upgrade - how often, % ? What are the statistics for the last 3-5 years?
 Probationary period.
 Notice period during and after probationary period.
+Rellocation support.
 
-Office facilities:
+Office facilities
+=================
 
 Do you have Kitchen? Where do people usually have lunch?
 Do you have a shower?
 Do you have a place for rest / nap ?
 Do you have silent boxes or rooms (for a single person or for multiple persons)?
-Parking? Free? 
+Parking? Free?
 
+
+PS
+==
+Feel free to update and make merge requests!
