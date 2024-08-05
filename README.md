@@ -53,6 +53,12 @@ Development process
 * Do you have performance tests?
 * Do you have code coverage analysers?
 
+Localization
+============
+* Does your product support multiple languages?
+* How do you manage it?
+* How do you translate texts?
+
 Branch management
 =================
 * How do you manage branches/releases? 
