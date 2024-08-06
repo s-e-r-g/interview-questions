@@ -53,6 +53,8 @@ Development process
 * Do you have performance tests?
 * Do you have code coverage analysers?
 
+* How often do you make refactoring? Do you create a special tasks for it or do it with other tasks?
+
 Localization
 ============
 * Does your product support multiple languages?
