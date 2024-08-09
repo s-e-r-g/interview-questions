@@ -31,7 +31,7 @@ Development process
 * With how many teams we will interact?
 * What does the development process look like?
 * Who generates and manages requirements?
-* Do you have any requirements for security? Who does review / manage this type of requirements?
+* Do you have any requirements for security? Who and how cares about it?
 * Who creates tasks for developers?
 * Do you have a Software/System Architect?
 * What hardware/software/services do I need for development, debugging, testing?
