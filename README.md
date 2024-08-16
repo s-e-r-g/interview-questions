@@ -78,7 +78,7 @@ Licensing
 Remote/Onsite
 =============
 * More about onsite and remote options
-* Romote: how to work there - VPN, Remote Desktop, etc.?
+* Remote: how to work remotely - VPN, Remote Desktop, etc.?
 
 Certification
 =============
