@@ -3,6 +3,11 @@ Some interview questions for the company
 Hi All! 
 This is my collection of the interview questions for a C++ (and not only) developer job publisher.
 
+Interview
+=========
+* Interview structure / steps
+* When to expect the feedback?
+
 Project
 =======
 * What is the project about?
