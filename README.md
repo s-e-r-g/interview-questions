@@ -94,6 +94,7 @@ Onboarding / Benefits
 * Probationary period.
 * Notice period during and after probationary period.
 * Rellocation support.
+* Do you have a plan for newcomers how to dive into the project effectively? 
 
 Office facilities
 =================
