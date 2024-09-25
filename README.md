@@ -41,6 +41,7 @@ Development process
 * Do you have a Software/System Architect?
 * What hardware/software/services do I need for development, debugging, testing?
 * Do you have a CI/CD?
+* What build system do you use: make, cmake, yocto, custom, other?
 * Will I be able to do the following things during the 1st working day:
   * checkout project
   * run IDE to edit project (e.g. VSCode) with indexer and other nice things
