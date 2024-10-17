@@ -13,6 +13,10 @@ Project
 * What is the project about?
 * What stage is it at? More or less stable or all processes are not clear yet?
 
+Language
+========
+* What is the main spoken language on the project on the meetings : English / Deutsch / Українська / etc.
+ 
 Team
 ====
 * What is the name of the team?
