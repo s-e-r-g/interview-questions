@@ -12,10 +12,6 @@ Project
 =======
 * What is the project about?
 * What stage is it at? More or less stable or all processes are not clear yet?
-
-Language
-========
-* What is the main spoken language on the project on the meetings : Українська / English / Deutsch / etc.
  
 Team
 ====
@@ -25,8 +21,8 @@ Team
 * Who they are and what is their experience?
 * Why are you hiring new developers?
 * What happened with the previous?
-* Languages you use in communication.
-
+* What is the main spoken language on the project : Українська / English / Deutsch / etc.
+  
 Role
 ====
 * What is the name of my role?
