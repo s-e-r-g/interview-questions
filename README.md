@@ -15,7 +15,7 @@ Project
 
 Language
 ========
-* What is the main spoken language on the project on the meetings : English / Deutsch / Українська / etc.
+* What is the main spoken language on the project on the meetings : Українська / English / Deutsch / etc.
  
 Team
 ====
