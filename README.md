@@ -12,6 +12,7 @@ Project
 =======
 * What is the project about?
 * What stage is it at? More or less stable or all processes are not clear yet?
+* What do you have (current state) now and where do you go (target state)?
  
 Team
 ====
