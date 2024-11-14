@@ -104,6 +104,11 @@ Onboarding / Benefits
 * Rellocation support.
 * Do you have a plan for newcomers how to dive into the project effectively? 
 
+Offboarding / Benefits
+=====================
+* Notice period from employee side?
+* Notice period from employer side?
+
 Office facilities
 =================
 * Do you have a kitchen? 
