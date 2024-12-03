@@ -68,6 +68,7 @@ Environment & Tools
 Documentation
 -------------
 * How do you store documentation?
+* Can you look at the difference in documentation between 2 releases/branches/revisions?
 
 Development process
 -------------------
