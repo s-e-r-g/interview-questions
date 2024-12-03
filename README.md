@@ -32,7 +32,7 @@ Team
 * Who they are and what is their experience?
 * Why are you hiring new developers?
 * What happened with the previous?
-* What is the main spoken language on the project : Українська / English / Deutsch / etc.
+* What is the main and/or secondary spoken language on the project : Українська / English / Deutsch / etc.
 
 Role
 ====
