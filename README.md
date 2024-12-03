@@ -1,4 +1,4 @@
-Some interview questions for the company
+Some interview questions for the Company
 ========================================
 
 Hi All! 
