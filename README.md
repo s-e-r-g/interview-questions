@@ -39,10 +39,15 @@ Architecture
 * Do you have a System Architect?
 * How many people know entire architecture of the project?
 
+Testing
+-------
+* Do you write tests? What kind of tests?
+* Do you have security tests?
+* Do you have benchmarks? What do you measure?
+* Do you have manual testing? How many QA engineers?
+
 Development process
 -------------------
-* Do you write tests? What kind of tests?
-* Do you have benchmarks? What do you measure?
 * With how many teams we will interact?
 * What does the development process look like? Agile, SCRUM, ...?
 * Who generates and manages requirements?
@@ -71,7 +76,6 @@ Development process
 * Do you use hooks that prevent committing unformatted code? 
 * Do you have a commit message format?
 * Do you use static code analysers?
-* Do you have performance tests?
 * Do you have code coverage analysers?
 
 * How often do you make refactoring? Do you create a special tasks for it or do it with other tasks?
