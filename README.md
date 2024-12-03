@@ -36,8 +36,8 @@ Role
 
 Development process
 -------------------
-* Do you write tests?
-* What kind of tests?
+* Do you write tests? What kind of tests?
+* Do you have benchmarks? What do you measure?
 * With how many teams we will interact?
 * What does the development process look like? Agile, SCRUM, ...?
 * Who generates and manages requirements?
