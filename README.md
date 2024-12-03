@@ -7,25 +7,19 @@ This is my collection of the interview questions for a C++ (and not only) develo
 Interview
 =========
 * Interview structure / steps
-* When to expect the feedback?
+* When to expect the feedback after each step?
 
-Project
-=======
+Project Questions
+==================
+
+Project description
+-------------------
 * What is the project about?
 * What stage is it at? More or less stable or all processes are not clear yet?
 * What do you have (current state) now and where do you go (target state)?
 
-Working Time
-============
-* Working hours
-* Overtimes : yes/no, Mo-Fr/Sa-Su/Holidays, rare/often, paid(rate?)/unpaid?
-* State Holidays : local for employee / employer ?
-* Vacation days : how many? before and after trial period?
-* Sick days : amount, paid, extra,?
-* Do you have time tracking in the company?
-
 Team
-====
+----
 * What is the name of the team?
 * What does the team do?
 * How many people are in the team and their roles ? Developers/QAs/POs/PMs/etc.
@@ -35,13 +29,14 @@ Team
 * What is the main and/or secondary spoken language on the project : Українська / English / Deutsch / etc.
 
 Role
-====
+----
 * What is the name of my role?
 * What kind of tasks will I have?
 * What will be my 1st task? 
 
 Development process
-===================
+-------------------
+* Agile, SCRUM, ... ?
 * Do you write tests?
 * What kind of tests?
 * With how many teams we will interact?
@@ -79,32 +74,44 @@ Development process
 * How often do you make refactoring? Do you create a special tasks for it or do it with other tasks?
 
 Localization
-============
+------------
 * Does your product support multiple languages?
 * How do you manage it?
 * How do you translate texts?
 
 Branch management
-=================
+-----------------
 * How do you manage branches/releases? 
 * Do you use “Merge” or “Rebase” approach?
 
 Licensing
-=========
+---------
 * Who and how does the software licensing checks / tracking?
 
-Remote/Onsite
-=============
-* More about onsite and remote options
-* Remote: how to work remotely - VPN, Remote Desktop, etc.?
+
+Organizational questions
+========================
+Working Time
+------------
+* Working hours
+* Overtimes : yes/no, Mo-Fr/Sa-Su/Holidays, rare/often, paid(rate?)/unpaid?
+* State Holidays : local for employee / employer ?
+* Vacation days : how many? before and after trial period?
+* Sick days : amount, paid, extra,?
+* Do you have time tracking in the company?
 
 Certification
-=============
+-------------
 * Is there a lot of certification related activities at this role? 
 * Do you have any certification-related trainings?
 
+Remote/Onsite
+-------------
+* More about onsite and remote options
+* Remote: how to work remotely - VPN, Remote Desktop, etc.?
+
 Onboarding / Benefits
-=====================
+---------------------
 * Where do you expect a new employee to start?
 * Base salary range
 * Bonuses (13th salary, pension scheme, stock, so on…)
@@ -112,15 +119,17 @@ Onboarding / Benefits
 * Trial period.
 * Notice period during and after probationary period.
 * Rellocation support.
-* Do you have a plan for newcomers how to dive into the project effectively? 
+* Do you have a plan for newcomers how to dive into the project effectively?
+* Does the Company pay for trainings / certifications ?
+* Other benefits : ...
 
 Offboarding / Benefits
-=====================
+----------------------
 * Notice period from employee side?
 * Notice period from employer side?
 
 Office facilities
-=================
+-----------------
 * Do you have a kitchen? 
 * Where do people usually have lunch?
 * Do you have a shower?
