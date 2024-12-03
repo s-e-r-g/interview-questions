@@ -1,5 +1,6 @@
 Some interview questions for the company
 ========================================
+
 Hi All! 
 This is my collection of the interview questions for a C++ (and not only) developer job publisher.
 
@@ -13,7 +14,16 @@ Project
 * What is the project about?
 * What stage is it at? More or less stable or all processes are not clear yet?
 * What do you have (current state) now and where do you go (target state)?
- 
+
+Working Time
+============
+* Working hours
+* Overtimes : yes/no, Mo-Fr/Sa-Su/Holidays, rare/often, paid(rate?)/unpaid?
+* State Holidays : local for employee / employer ?
+* Vacation days : how many? before and after trial period?
+* Sick days : amount, paid, extra,?
+* Do you have time tracking in the company?
+
 Team
 ====
 * What is the name of the team?
@@ -23,7 +33,7 @@ Team
 * Why are you hiring new developers?
 * What happened with the previous?
 * What is the main spoken language on the project : Українська / English / Deutsch / etc.
-  
+
 Role
 ====
 * What is the name of my role?
@@ -32,7 +42,7 @@ Role
 
 Development process
 ===================
-* Do you write tests ?
+* Do you write tests?
 * What kind of tests?
 * With how many teams we will interact?
 * What does the development process look like?
@@ -99,7 +109,7 @@ Onboarding / Benefits
 * Base salary range
 * Bonuses (13th salary, pension scheme, stock, so on…)
 * Salary upgrade - how often, % ? What are the statistics for the last 3-5 years?
-* Probationary period.
+* Trial period.
 * Notice period during and after probationary period.
 * Rellocation support.
 * Do you have a plan for newcomers how to dive into the project effectively? 
