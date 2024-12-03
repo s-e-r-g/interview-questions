@@ -147,7 +147,7 @@ Office facilities
 * Do you have a place for rest / nap ?
 * Do you have silent boxes or rooms (for a single person or for multiple persons)?
 * Parking? Free?
-
+* Games (pool, table tennis, table football, PS/Xbox, other)
 
 PS
 ==
