@@ -89,7 +89,7 @@ Branch management
 
 Licensing
 ---------
-* Who and how does the software licensing checks / tracking?
+* Who and how does the software licensing checks / tracking? GPL/LGPL/BSD/...
 
 AI tools usage
 --------------
