@@ -46,6 +46,27 @@ Testing
 * Do you have benchmarks? What do you measure?
 * Do you have manual testing? How many QA engineers?
 
+Codebase quality
+----------------
+* Do you use coding styles? 
+* Do you use code formatters? 
+* Do you use hooks that prevent committing unformatted code? 
+* Do you have a commit message format?
+* Do you use static code analysers?
+* Do you have code coverage analysers?
+* How often do you make refactoring? Do you create a special tasks for it or do it with other tasks?
+
+Development environment
+-----------------------
+* What hardware/software/services do I need for development, debugging, testing?
+* Do you have a CI/CD?
+
+Toolchain
+---------
+* What build system do you use: make, cmake, yocto, custom, other?
+* What programming languages, libraries, tools do you use in development?
+* How often do you update them?
+
 Development process
 -------------------
 * With how many teams we will interact?
@@ -53,32 +74,15 @@ Development process
 * Who generates and manages requirements?
 * Do you have any requirements for security? Who and how cares about it?
 * Who creates tasks for developers?
-* What hardware/software/services do I need for development, debugging, testing?
-* Do you have a CI/CD?
-* What build system do you use: make, cmake, yocto, custom, other?
 * Will I be able to do the following things during the 1st working day:
   * checkout project
   * run IDE to edit project (e.g. VSCode) with indexer and other nice things
   * build project
   * run tests
   * debug project
-    
 * What does the regular week/month look like in terms of meetings/plannings/etc…
-
 * Describe the usual new feature implementation process?
 * Describe the usual bug fixing process?
-
-* What programming languages, libraries, tools do you use in development?
-* How often do you update them?
-
-* Do you use coding styles? 
-* Do you use code formatters? 
-* Do you use hooks that prevent committing unformatted code? 
-* Do you have a commit message format?
-* Do you use static code analysers?
-* Do you have code coverage analysers?
-
-* How often do you make refactoring? Do you create a special tasks for it or do it with other tasks?
 
 Localization
 ------------
