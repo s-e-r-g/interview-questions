@@ -56,16 +56,14 @@ Codebase quality
 * Do you have code coverage analysers?
 * How often do you make refactoring? Do you create a special tasks for it or do it with other tasks?
 
-Development environment
------------------------
+Environment & Tools
+-------------------
 * What hardware/software/services do I need for development, debugging, testing?
 * Do you have a CI/CD?
-
-Toolchain
----------
 * What build system do you use: make, cmake, yocto, custom, other?
 * What programming languages, libraries, tools do you use in development?
 * How often do you update them?
+* What are target platforms?
 
 Development process
 -------------------
