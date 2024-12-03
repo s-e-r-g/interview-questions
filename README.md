@@ -36,11 +36,10 @@ Role
 
 Development process
 -------------------
-* Agile, SCRUM, ... ?
 * Do you write tests?
 * What kind of tests?
 * With how many teams we will interact?
-* What does the development process look like?
+* What does the development process look like? Agile, SCRUM, ...?
 * Who generates and manages requirements?
 * Do you have any requirements for security? Who and how cares about it?
 * Who creates tasks for developers?
