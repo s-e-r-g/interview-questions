@@ -26,7 +26,7 @@ Team
 * Who they are and what is their experience?
 * Why are you hiring new developers?
 * What happened with the previous?
-* What is the main and/or secondary spoken language on the project : Українська / English / Deutsch / etc.
+* What is the main (and secondary) spoken language on the project : Українська / English / Deutsch / etc.
 
 Role
 ----
@@ -38,6 +38,13 @@ Architecture
 ------------
 * Do you have a System Architect?
 * How many people know entire architecture of the project?
+
+Requirements
+------------
+* Who generates and manages requirements?
+* How are they tracked?
+* Can you compare requirements between releases?
+* Do you have any requirements for security? Who and how cares about them?
 
 Testing
 -------
@@ -74,8 +81,6 @@ Development process
 -------------------
 * With how many teams we will interact?
 * What does the development process look like? Agile, SCRUM, ...?
-* Who generates and manages requirements?
-* Do you have any requirements for security? Who and how cares about it?
 * Who creates tasks for developers?
 * Will I be able to do the following things during the 1st working day:
   * checkout project
