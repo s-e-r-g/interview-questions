@@ -65,6 +65,10 @@ Environment & Tools
 * How often do you update them?
 * What are target platforms?
 
+Documentation
+-------------
+* How do you store documentation?
+
 Development process
 -------------------
 * With how many teams we will interact?
