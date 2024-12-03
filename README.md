@@ -34,6 +34,11 @@ Role
 * What kind of tasks will I have?
 * What will be my 1st task? 
 
+Architecture
+------------
+* Do you have a System Architect?
+* How many people know entire architecture of the project?
+
 Development process
 -------------------
 * Do you write tests? What kind of tests?
@@ -43,7 +48,6 @@ Development process
 * Who generates and manages requirements?
 * Do you have any requirements for security? Who and how cares about it?
 * Who creates tasks for developers?
-* Do you have a Software/System Architect?
 * What hardware/software/services do I need for development, debugging, testing?
 * Do you have a CI/CD?
 * What build system do you use: make, cmake, yocto, custom, other?
