@@ -61,7 +61,6 @@ Development process
 
 * What programming languages, libraries, tools do you use in development?
 * How often do you update them?
-* Do you use AI tools like ChatGPT, Copilot? Is it allowed?
 
 * Do you use coding styles? 
 * Do you use code formatters? 
@@ -88,6 +87,10 @@ Licensing
 ---------
 * Who and how does the software licensing checks / tracking?
 
+AI tools usage
+--------------
+* Do you use AI tools like ChatGPT, Copilot?
+* Is it allowed?
 
 Organizational questions
 ========================
