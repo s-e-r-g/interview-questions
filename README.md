@@ -62,6 +62,7 @@ Development process
 
 * What programming languages, libraries, tools do you use in development?
 * How often do you update them?
+* Do you use AI tools like ChatGPT, Copilot? Is it allowed?
 
 * Do you use coding styles? 
 * Do you use code formatters? 
