@@ -15,6 +15,7 @@ Project Questions
 Project description
 -------------------
 * What is the project about?
+* How old is the project?
 * What stage is it at? More or less stable or all processes are not clear yet?
 * What do you have (current state) now and where do you go (target state)?
 
