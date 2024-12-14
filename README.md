@@ -46,6 +46,7 @@ Requirements
 * How are they tracked?
 * Can you compare requirements between releases?
 * Do you have any requirements for security? Who and how cares about them?
+* Any saftety requirements?
 
 Testing
 -------
