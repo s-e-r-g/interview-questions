@@ -1,7 +1,6 @@
 Some interview questions for the Company
 ========================================
 
-Hi All! 
 This is my collection of the interview questions for a C++ (and not only) developer job publisher.
 
 Interview
@@ -53,7 +52,7 @@ Testing
 * Do you write tests? What kind of tests?
 * Do you have security tests?
 * Do you have benchmarks? What do you measure?
-* Do you have manual testing? How many QA engineers?
+* Do you have manual testing? How many QA engineers in this team, on the project?
 
 Codebase quality
 ----------------
@@ -72,12 +71,13 @@ Environment & Tools
 * What build system do you use: make, cmake, yocto, custom, other?
 * What programming languages, libraries, tools do you use in development?
 * How often do you update them?
+* Do you have some kind of dev containers for development?
 * What are target platforms?
 
 Documentation
 -------------
 * How do you store documentation?
-* Can you look at the difference in documentation between 2 releases/branches/revisions?
+* Can you have a difference between 2 releases/branches/revisions for docs?
 
 Development process
 -------------------
@@ -135,34 +135,35 @@ Remote/Onsite
 * More about onsite and remote options
 * Remote: how to work remotely - VPN, Remote Desktop, etc.?
 
-Onboarding / Benefits
----------------------
-* Where do you expect a new employee to start?
+Benefits
+--------
 * Base salary range
-* Bonuses (13th salary, pension scheme, stock, so on…)
+* Bonuses (13th salary, pension scheme, stocks, stock options, so on…)
 * Salary upgrade - how often, % ? What are the statistics for the last 3-5 years?
-* Trial period.
-* Notice period during and after probationary period.
-* Rellocation support.
-* Do you have a plan for newcomers how to dive into the project effectively?
 * Does the Company pay for trainings / certifications ?
-* Other benefits : ...
+* Other benefits ?
+* Rellocation support.
+
+Onboarding / Probation period
+-----------------------------
+* Notice period during and after probation period.
+* Probation period : duration. 
+* When and where do you expect a new employee to start? (location, duration if other than permanent location)
+* Do you have an onboarding plan for newcomers how to dive into the project effectively? Step by step.
+* Probation period: do you have the metrics that says - yes - you will pass it if this and that was done?
 
 Offboarding / Benefits
 ----------------------
 * Notice period from employee side?
 * Notice period from employer side?
 
-Office facilities
------------------
+Office facilities (work from office)
+------------------------------------
 * Do you have a kitchen? 
 * Where do people usually have lunch?
-* Do you have a shower?
+* Do you have a shower? (for thouse who use e.g. bycicles)
 * Do you have a place for rest / nap ?
 * Do you have silent boxes or rooms (for a single person or for multiple persons)?
 * Parking? Free?
 * Games (pool, table tennis, table football, PS/Xbox, other)
 
-PS
-==
-Feel free to update and make merge requests!
