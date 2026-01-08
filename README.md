@@ -23,15 +23,16 @@ Team
 * What is the name of the team?
 * What does the team do?
 * How many people are in the team and their roles ? Developers/QAs/POs/PMs/etc.
-* Who they are and what is their experience?
+* Who are they and what experience de they have?
 * Why are you hiring new developers?
 * What happened with the previous?
-* What is the main (and secondary) spoken language on the project : Українська / English / Deutsch / etc.
+* What is the "median employee tenure" on the project?
+* What is the main (and/or secondary) spoken language on the project?
 
 Role
 ----
 * What is the name of my role?
-* What kind of tasks will I have?
+* What are my responsibilities / tasks?
 * What will be my 1st task? 
 
 Architecture
@@ -84,7 +85,7 @@ Development process
 * With how many teams we will interact?
 * What does the development process look like? Agile, SCRUM, ...?
 * Who creates tasks for developers?
-* Will I be able to do the following things during the 1st working day:
+* Will I be able to do the following things during the 1st working day?
   * checkout project
   * run IDE to edit project (e.g. VSCode) with indexer and other nice things
   * build project
@@ -137,12 +138,11 @@ Remote/Onsite
 
 Benefits
 --------
-* Base salary range
-* Bonuses (13th salary, pension scheme, stocks, stock options, so on…)
+* Compensation structure : base, bonuses, pension scheme, stocks, stock options, so on…)
 * Salary upgrade - how often, % ? What are the statistics for the last 3-5 years?
 * Does the Company pay for trainings / certifications ?
 * Other benefits ?
-* Rellocation support.
+* Rellocation support ?
 
 Onboarding / Probation period
 -----------------------------
@@ -150,12 +150,7 @@ Onboarding / Probation period
 * Probation period : duration. 
 * When and where do you expect a new employee to start? (location, duration if other than permanent location)
 * Do you have an onboarding plan for newcomers how to dive into the project effectively? Step by step.
-* Probation period: do you have the metrics that says - yes - you will pass it if this and that was done?
-
-Offboarding / Benefits
-----------------------
-* Notice period from employee side?
-* Notice period from employer side?
+* Probation period: do you have the metrics that says - yes - you will pass it if this and that are done?
 
 Office facilities (work from office)
 ------------------------------------
@@ -163,7 +158,12 @@ Office facilities (work from office)
 * Where do people usually have lunch?
 * Do you have a shower? (for thouse who use e.g. bycicles)
 * Do you have a place for rest / nap ?
+* How loud is in the office?
 * Do you have silent boxes or rooms (for a single person or for multiple persons)?
 * Parking? Free?
 * Games (pool, table tennis, table football, PS/Xbox, other)
 
+Offboarding
+----------------------
+* Notice period from employee side?
+* Notice period from employer side?
